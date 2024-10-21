@@ -1,0 +1,150 @@
+* {
+
+
+padding: 0;
+margin: 0;
+text-decoration: none;
+list-style: none;
+color: white;
+font-size: 25px;
+
+}
+
+
+body {
+    background-size: cover;
+    background-image: url(tk7YhpvSGQhNjAoEfC2xX.jpg);}
+    
+header {
+
+
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: rgb(194, 30, 30);
+    
+
+
+
+
+}
+
+
+
+
+nav li {
+
+
+    display: inline;
+    align-items: center;
+    margin-right: 20px;
+    
+    
+
+}
+
+
+
+ul {
+
+
+    margin-left: 500px;
+    margin-top: -50px;
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
+img {
+
+
+width: 300px;
+margin-left: 70px;
+/* padding: ; */
+margin-top: 20px;
+
+}
+
+
+
+.korzina {
+
+
+margin-left: 1050px;
+margin-top: -35px;
+
+}
+
+
+.icon_3 {
+
+
+
+    width: 35px;
+    margin-left: 1000px;
+    
+    height: auto;
+
+}
+
+
+.icon_3_div {
+
+
+    margin-top: -55px;
+
+}
+
+
+
+.icon_1 {
+
+
+width: 35px;
+margin-left: 1400px;
+
+height: auto;
+
+
+
+
+}
+
+
+
+.icon {
+
+
+    margin-top: -55px;
+
+}
+
+.icon_2_div {
+
+    margin-top: -55px;
+
+
+}
+
+
+
+.icon_2 {
+
+
+    width: 25px;
+    margin-left: 1450px;
+
+}
